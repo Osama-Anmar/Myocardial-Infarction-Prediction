@@ -37,7 +37,7 @@ pip install -r requirements.txt
 # Usage
 ```bash
 jupyter notebook MyocardialInfarction.ipynb
-MyocardialInfarctionANN.ipynb
+jupyter notebook MyocardialInfarctionANN.ipynb
 ```
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
